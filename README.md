@@ -3,6 +3,8 @@
 
 ### 📄 Resume:
 [![Alt Text](https://github.com/heyayush87/heyayush87/blob/d6966714289da05fa89a8eeb7185b4477aeb40c9/Screenshot%202025-04-12%20170815.png)](https://drive.google.com/file/d/1N_BmvWYWLa_rOOmpgDc_2bX9JjlfUlS5/view?usp=drivesdk)
+
+
 [View My Resume](https://drive.google.com/file/d/1N_BmvWYWLa_rOOmpgDc_2bX9JjlfUlS5/view?usp=drivesdk)
 
 
