@@ -2,6 +2,7 @@
 ## 👋 Hey there! I'm Ayush Kumar<br><br>🎓 Final year Information Science Engineering student at SMVIT  <br>💻 Passionate Frontend Developer | React.js | Next.js  <br>🚀 Currently building cool projects like **Netflix-Gemini** & **FoodVilla**  & Youtube  clone** <br>🧠 Love exploring new tech, solving problems & creating intuitive UIs  <br>📦 Skilled in:  <br>- React.js, Redux Toolkit, Tailwind CSS  <br>- JavaScript, HTML5, CSS <br>- Next.js,  Git/GitHub 
 
 ### 📄 Resume:
+[![Alt Text](https://github.com/heyayush87/heyayush87/blob/d6966714289da05fa89a8eeb7185b4477aeb40c9/Screenshot%202025-04-12%20170815.png)](https://drive.google.com/file/d/1N_BmvWYWLa_rOOmpgDc_2bX9JjlfUlS5/view?usp=drivesdk)
 [View My Resume](https://drive.google.com/file/d/1N_BmvWYWLa_rOOmpgDc_2bX9JjlfUlS5/view?usp=drivesdk)
 
 
