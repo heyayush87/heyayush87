@@ -3,9 +3,9 @@
 
 ### 📄 Resume:
 
-[![Resume Preview](https://github.com/heyayush87/heyayush87/blob/ed9dd7876a9cd86398dc5ede042f3b13af2962e0/Screenshot%202025-06-16%20181834.png?raw=true)](https://drive.google.com/file/d/1qQFU7WTdfwdwoSTQiAX_O4cpBfNd_A5t/view?usp=drive_link)
+[![Resume Preview](https://github.com/heyayush87/heyayush87/blob/ed9dd7876a9cd86398dc5ede042f3b13af2962e0/Screenshot%202025-06-16%20181834.png?raw=true)](https://drive.google.com/file/d/1pvRgx7bntvBrIPGBtTCRt9_8_wde3w7I/view?usp=drive_link)
 
-[👉 View My Resume](https://drive.google.com/file/d/1qQFU7WTdfwdwoSTQiAX_O4cpBfNd_A5t/view?usp=drive_link)
+[👉 View My Resume](https://drive.google.com/file/d/1pvRgx7bntvBrIPGBtTCRt9_8_wde3w7I/view?usp=drive_link)
 
 
 
