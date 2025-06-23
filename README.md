@@ -3,7 +3,7 @@
 
 ### 📄 Resume:
 
-[![Resume Preview](https://github.com/heyayush87/heyayush87/blob/ed9dd7876a9cd86398dc5ede042f3b13af2962e0/Screenshot%202025-06-16%20181834.png?raw=true)](https://drive.google.com/file/d/1pvRgx7bntvBrIPGBtTCRt9_8_wde3w7I/view?usp=drive_link)
+[![Resume Preview](https://github.com/heyayush87/heyayush87/blob/a51c860c000ccbb6eafe6c7245d6087e569bbf3e/Screenshot%202025-06-23%20163439.png)](https://drive.google.com/file/d/1pvRgx7bntvBrIPGBtTCRt9_8_wde3w7I/view?usp=drive_link)
 
 [👉 View My Resume](https://drive.google.com/file/d/1pvRgx7bntvBrIPGBtTCRt9_8_wde3w7I/view?usp=drive_link)
 
